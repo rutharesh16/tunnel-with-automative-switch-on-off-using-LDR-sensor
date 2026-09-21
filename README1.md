@@ -73,7 +73,9 @@ Low light → LDR senses darkness → LED ON
 6.Energy-saving lighting systems
 
 **✅ Conclusion**
-
+![image](tunnel-with-automative-switch-onoff-using-LDR-sensor (3).jpeg)
+![image](tunnel-with-automative-switch-onoff-using-LDR-sensor (2).jpeg)
+![image](tunnel-with-automative-switch-onoff-using-LDR-sensor .jpeg)
 We successfully developed a simple automatic tunnel lighting system using an LDR. The model automatically controls the LED according to the surrounding light intensity. It demonstrates how sensors can be used to save energy and provide lighting only when required. This project also gives a basic understanding of LDR sensors, automatic switching and smart lighting systems.
 
 ## 
